@@ -15,3 +15,5 @@
 </div>
   
 ##
+
+   ![Snake animation](https://github.com/tiagoexe-gp/tiagogp-exe/blob/output/github-contribution-grid-snake.svg)
