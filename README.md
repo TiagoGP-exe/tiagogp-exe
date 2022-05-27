@@ -1,4 +1,10 @@
 ## Olá! Eu sou o Tiago Guimarães 
+E sou fissurado em front end.
+
+  Atualmente estudando NodeJS
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+
+
 <div  align="center">
   <br>
   <a href="https://github.com/tiagogp-exe">
