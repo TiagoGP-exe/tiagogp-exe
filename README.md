@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Tiago Guimarães 
 E sou fissurado em front end.
 
-  Atualmente estudando NodeJS
+  Atualmente estudando
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 
 
